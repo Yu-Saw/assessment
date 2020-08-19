@@ -1,0 +1,35 @@
+body {
+    background-color: #04A6EB;
+    color: #FDFFFF;
+    text-align: center;
+}
+
+button {
+    margin-top: 20px;
+    padding: 5px 20px;
+    background-color: #337AB7;
+    border-style: none;
+    border-radius: 10px;
+    color: #FDFFFF;
+}
+
+input {
+    height: 20px;
+    border-style: none;
+    border-radius: 10px;
+    padding:5px;
+}
+
+#kekka {
+margin: 100px;
+padding: 20px;
+background-color: #FDFFFF;
+color : rgb(49, 49, 49)
+}
+
+#result-area {
+    text-align: center;
+    padding: 5px;
+    border-style: none;
+    border-radius: 10px;
+}
